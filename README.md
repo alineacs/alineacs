@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá você ai!! 👋
+
+Eu não costumo codar muito então uso o Git com baixa frequência, voce pode me conhecer melor pelo meu LinedIn!!
 
 <!--
 **alineacs/alineacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
