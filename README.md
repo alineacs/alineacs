@@ -1,7 +1,13 @@
-### Olá você ai!! 👋
+## Olá você ai!! 👋
 
-Eu não costumo codar muito então uso o Git com baixa frequência, voce pode me conhecer melor pelo meu LinedIn!!
+### Uso o Git com baixa frequência, você pode me conhecer melor pelo meu  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alineacs/) !!
 
+#### _Aline Carvalho_
+- 💻 Estou buscando melhorar minhas habilidade com dados
+- 💸 Já trabahei em uma fintech com estudos de séries históricas e modelos de predição para tomada de decisão de negócio
+- 😄 Ela/Dela
+- 📊 Dashs e reports são coisas que eu gosto muito de fazer 
+ 
 <!--
 **alineacs/alineacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
