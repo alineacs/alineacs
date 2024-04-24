@@ -1,6 +1,6 @@
 ## Olá você ai!! 👋
 
-### Uso o Git com baixa frequência, você pode me conhecer melor pelo meu  ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alineacs/) !!
+### Uso o Git com baixa frequência, você pode me conhecer melor pelo meu  <a href="https://www.linkedin.com/in/alineacs/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a> !!
 
 #### _Aline Carvalho_
 - 💻 Estou buscando melhorar minhas habilidade com dados
