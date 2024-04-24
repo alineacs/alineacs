@@ -5,13 +5,24 @@
 #### _Aline Carvalho_
 - 💻 Estou buscando melhorar minhas habilidade com dados
 - 💸 Já trabahei em uma fintech com estudos de séries históricas e modelos de predição para tomada de decisão de negócio
-- 😄 Ela/Dela
+- 📸 Apaiaxxonada por fotografia
 - 📊 Dashs e reports são coisas que eu gosto muito de fazer 
- 
+
+
 <!--
 **alineacs/alineacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+ <hr>
+
+<div align="center">
+  <h3>Studying in this moment:</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+</div>
+
+<hr>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
