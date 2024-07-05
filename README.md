@@ -5,7 +5,7 @@
 #### _Aline Carvalho_
 - 💻 Estou buscando melhorar minhas habilidade com dados
 - 💸 Já trabahei em uma fintech com estudos de séries históricas e modelos de predição para tomada de decisão de negócio
-- 📸 Apaiaxxonada por fotografia
+- 📸 Apaixonada por fotografia
 - 📊 Dashs e reports são coisas que eu gosto muito de fazer 
 
 <hr>
